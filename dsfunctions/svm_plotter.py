@@ -11,6 +11,9 @@ from ipywidgets import *
 
 
 class XY(object):
+    '''
+    This class is inherited from ga-dsir824 for visualizing SVMs
+    '''
 
     def __init__(self, class_n):
         self.class_n = class_n
