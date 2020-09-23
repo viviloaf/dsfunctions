@@ -16,6 +16,15 @@ class viz:
     # 
     # Typical Graphical EDA: 
     # Boxplot, Histogram, Multivariate Chart, Scatter Plots, Run Charts, Targeted Projection Pursuit
+
+
+    to do:
+
+    make a function that shows a labeled histogram of all numerical numerical features
+
+    make a function that shows a bar chart comparing cateorical features
+
+    make a function that takes in two dataframes of the same dataset but different catergeories and plots them as histogram subplots
     '''
     def __init__:
         import matplotlib.pyplot as plt
